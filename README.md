@@ -1,16 +1,14 @@
-## Hi there 👋
+# Olá, eu sou a Ligia Tanferri! 👋
 
-<!--
-**LiTanferri/LiTanferri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Estudante de Inteligência Artificial & Data Annotation
 
-Here are some ideas to get you started:
+Estou em transição de carreira, construindo competências fundamentais em IA Generativa e Machine Learning. 
+Meu foco atual é compreender a lógica por trás dos modelos para atuar na curadoria de dados e engenharia de prompts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+** O que estou estudando agora:**
+* **Fundamentos de Machine Learning:** Baseado no livro *"The Hundred-Page Machine Learning Book"*.
+* **IA Generativa:** Cursos e práticas de Engenharia de Prompt (Curso de IA).
+* **Qualidade de Dados:** Diretrizes de anotação e RLHF (Reforço com Feedback Humano).
+
+📫 Contato:
+[Seu LinkedIn] | [ligiattapxure@gmail.com]
